@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "string to array"
+	"run": "sub_string ./src/index.ts",
+    "prepublishOnly": "tsc -p ./ --outDir dist/"
   },
   "repository": {
     "type": "git",
