@@ -1,0 +1,23 @@
+{
+  "name": "npm-test-samp",
+  "version": "1.0.0",
+  "description": "Convert string into array",
+  "main": "index.js",
+  "scripts": {
+    "test": "string to array"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridhar-alagirisamy/npm-test-samp.git"
+  },
+  "keywords": [
+    "string",
+    "conversion"
+  ],
+  "author": "Sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridhar-alagirisamy/npm-test-samp/issues"
+  },
+  "homepage": "https://github.com/sridhar-alagirisamy/npm-test-samp#readme"
+}
